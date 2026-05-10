@@ -701,7 +701,7 @@ async def websocket_wakeword(websocket: WebSocket):
         manager.disconnect(websocket)
 
 
-_frontend_dir = Path(__file__).resolve().parent.parent / "docs"  # Updated for GitHub Pages support in docs/ folder
+_frontend_dir = Path(__file__).resolve().parent.parent  # Serving from root for direct GitHub Pages support
 
 if _frontend_dir.exists():  # Fix 81: "if_frontend_dir.exists()" -> "if _frontend_dir.exists()"
     app.mount("/app", StaticFiles(directory=str(_frontend_dir), html=True), name="frontend")
