@@ -7,9 +7,9 @@
 // CONFIG & STATE
 // ─────────────────────────────────────────────────────────────────
 
-const API = (typeof window !== 'undefined' && window.location.origin)
-    ? window.location.origin
-    : 'http://localhost:8000';
+const API = (typeof window !== 'undefined' && window.location.hostname.includes('github.io'))
+    ? 'http://localhost:8000'
+    : ((typeof window !== 'undefined' && window.location.origin) ? window.location.origin : 'http://localhost:8000');
 
 const State = {
     sessionId: null,
