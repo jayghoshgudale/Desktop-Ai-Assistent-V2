@@ -1,0 +1,37 @@
+{
+  "session_id": "b7068031-015e-49f3-84e4-441a4011122a",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Jarvis watch me and learn how to open whatsapp and send hello message to ourself"
+    },
+    {
+      "role": "assistant",
+      "content": "To send a WhatsApp message to yourself, you can create a WhatsApp group with just you and a friend, then remove the friend from the group, and send the message to the group, which will deliver it only to you, Sir. I've opened WhatsApp for you, and you can follow these steps to send a \"hello\" message to yourself."
+    },
+    {
+      "role": "user",
+      "content": "Start recording a macro for opening settings"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Settings for you."
+    },
+    {
+      "role": "user",
+      "content": "Jarvis watch me and learn how to open Photoshop"
+    },
+    {
+      "role": "assistant",
+      "content": "Let me take a look…"
+    },
+    {
+      "role": "user",
+      "content": "Jarvis watch me and learn how to open Photoshop"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm looking at an image of a young man with short dark hair and glasses. He appears to be standing in front of a window with a beige curtain, and a white wall is visible behind him. The lighting in the image is a bit dim, but I can see that he is wearing a dark-colored shirt. There is a computer screen in front of him with what appears to be a Photoshop tutorial on the screen. The man seems to be following along with the tutorial, with his eyes focused on the screen. I see a mouse in his right hand. \n\nYou are holding a computer mouse."
+    }
+  ]
+}

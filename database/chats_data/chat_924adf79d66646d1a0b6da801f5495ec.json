@@ -1,0 +1,29 @@
+{
+  "session_id": "924adf79-d666-46d1-a0b6-da801f5495ec",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Start recording a macro  and learn how to open Photoshop"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Photoshop for you."
+    },
+    {
+      "role": "user",
+      "content": "I will tell you how to open whatsapp and send message to ourself just listen carefully"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm listening, Sir, please go ahead and guide me on how to open WhatsApp and send a message to yourself."
+    },
+    {
+      "role": "user",
+      "content": "First open whatsapp\nThen saerch for you\nAfter fiding it write message by clicking at the messaging area then hit send"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    }
+  ]
+}

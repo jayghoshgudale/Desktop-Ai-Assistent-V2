@@ -1,0 +1,13 @@
+{
+  "session_id": "89acfa51-9204-4179-b5ef-4b72e45b4fc0",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Watch re.mp4 and learn macro for refreshing"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "session_id": "497e116d-1c36-4112-9af2-87ac062127a6",
+  "messages": [
+    {
+      "role": "user",
+      "content": "how are you"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm doing well, Sir, ready to help you with anything you need, just like I was when we discussed Ireland and Elon Musk earlier."
+    },
+    {
+      "role": "user",
+      "content": "tell me what is 2 + 2"
+    },
+    {
+      "role": "assistant",
+      "content": "The answer is 4, Sir."
+    },
+    {
+      "role": "user",
+      "content": "write a application to teacher that telling her I am not coming today"
+    },
+    {
+      "role": "assistant",
+      "content": "Dear Teacher, I am writing to inform you that I will not be able to attend school today, Sir."
+    },
+    {
+      "role": "user",
+      "content": "can you open calculator for me please"
+    },
+    {
+      "role": "assistant",
+      "content": "I have opened calculator."
+    },
+    {
+      "role": "user",
+      "content": "open calculator"
+    },
+    {
+      "role": "assistant",
+      "content": "I have opened calculator."
+    },
+    {
+      "role": "user",
+      "content": "can you please close calculator"
+    },
+    {
+      "role": "assistant",
+      "content": "I have closed calculator."
+    },
+    {
+      "role": "user",
+      "content": "create an image of girls seeing her in a mirror and doing Beauty"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the generate image in the background. I'll open it for you when it's ready."
+    }
+  ]
+}

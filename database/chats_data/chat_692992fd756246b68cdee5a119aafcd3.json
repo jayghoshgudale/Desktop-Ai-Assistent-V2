@@ -1,0 +1,21 @@
+{
+  "session_id": "692992fd-7562-46b6-8cde-e5a119aafcd3",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What's on my schedule today?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm doing that for you, Sir."
+    },
+    {
+      "role": "user",
+      "content": "Today is my meeting at 11 pm"
+    },
+    {
+      "role": "assistant",
+      "content": "You have a meeting scheduled for 11 pm tonight, Sir."
+    }
+  ]
+}

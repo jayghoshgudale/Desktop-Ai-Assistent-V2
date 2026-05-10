@@ -1,0 +1,53 @@
+{
+  "session_id": "a142d84f-89d0-4c1d-9473-64e234d4c57c",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What can you do?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can answer questions, open websites and apps, play music and videos, generate images, write content, and search Google and YouTube, Sir. I can also analyze camera images and provide information based on what I see."
+    },
+    {
+      "role": "user",
+      "content": "play chill song"
+    },
+    {
+      "role": "assistant",
+      "content": "I've started playing that for you."
+    },
+    {
+      "role": "user",
+      "content": "open sklauncher"
+    },
+    {
+      "role": "assistant",
+      "content": "I have opened sklauncher."
+    },
+    {
+      "role": "user",
+      "content": "open notepad and calculator and close sklauncher"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Notepad and Calculator for you."
+    },
+    {
+      "role": "user",
+      "content": "open notepad"
+    },
+    {
+      "role": "assistant",
+      "content": "I have opened notepad."
+    },
+    {
+      "role": "user",
+      "content": "close notepad"
+    },
+    {
+      "role": "assistant",
+      "content": "I have closed notepad."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "session_id": "5faf728f-1482-4b62-8063-a4438ad1d09e",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what was my schedule today"
+    },
+    {
+      "role": "assistant",
+      "content": "You had an IPL match between Rajasthan Royals and Mumbai Indians scheduled for 19:30 at Barsapara Cricket Stadium, Guwahati, and a meeting at 11 pm tonight, Sir."
+    },
+    {
+      "role": "user",
+      "content": "integration of water"
+    },
+    {
+      "role": "assistant",
+      "content": "The integration of water refers to the process of combining water from different sources or systems, such as rivers, lakes, and reservoirs, to create a unified and managed water supply, Sir."
+    },
+    {
+      "role": "user",
+      "content": "I want to write a simple python code who detets my voice if i say hay jarvis 1sr ... Sentence using libraries like pyaudio and openwakeword.\nFor ex:\nIf i said how are you it will not recognize\nAfter that if i say hey_jarvis How are you it will recognize.\nCan you write a simple python code for that ?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the content writing in the background. I'll open it for you when it's ready."
+    },
+    {
+      "role": "user",
+      "content": "It is saying :\nC:\\Users\\Administrator\\Desktop>python example.py\nTraceback (most recent call last):\n  File \"C:\\Users\\Administrator\\Desktop\\example.py\", line 4, in <module>\n    from openwakeword import WakeWordEngine\nImportError: cannot import name 'WakeWordEngine' from 'openwakeword' (C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\openwakeword\\__init__.py)"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the content writing in the background. I'll open it for you when it's ready."
+    },
+    {
+      "role": "user",
+      "content": "open chatgpt"
+    },
+    {
+      "role": "assistant",
+      "content": "I have opened chatgpt."
+    },
+    {
+      "role": "user",
+      "content": "open chatgpt.com"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Chatgpt for you."
+    }
+  ]
+}

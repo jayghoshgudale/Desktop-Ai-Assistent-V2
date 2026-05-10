@@ -1,0 +1,13 @@
+{
+  "session_id": "90e6ab40-6b06-46a8-b326-f0680bb1cea8",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What do you see on my screen? Describe it in detail."
+    },
+    {
+      "role": "assistant",
+      "content": "The image on your screen is a web page with a dark background, displaying a user interface for J.A.R.V.I.S, an AI assistant. \n\nAt the top, there is a browser tab with \"J.A.R.V.I.S\" and a URL \"localhost:8000/app/\". Below that, a greeting reads \"Good afternoon. How may I assist you today?\" with several buttons: \"What can you do?\", \"Open YouTube\", \"Fun fact\", \"Play music\", \"My schedule today\", and \"Analyze my screen\". A text input field at the bottom invites you to \"Ask Jarvis anything…\". The time \"14:56 25-04-2026\" is visible at the bottom right."
+    }
+  ]
+}

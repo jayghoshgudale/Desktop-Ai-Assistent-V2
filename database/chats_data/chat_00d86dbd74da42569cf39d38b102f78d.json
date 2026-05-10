@@ -1,0 +1,77 @@
+{
+  "session_id": "00d86dbd-74da-4256-9cf3-9d38b102f78d",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Open YouTube for me"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened YouTube for you."
+    },
+    {
+      "role": "user",
+      "content": "open latest video of senpai verse on youtube"
+    },
+    {
+      "role": "assistant",
+      "content": "I've started playing that for you."
+    },
+    {
+      "role": "user",
+      "content": "what is Whisper"
+    },
+    {
+      "role": "assistant",
+      "content": "Whisper is an AI-driven hearing aid system, a social media platform for sharing thoughts anonymously, and a distilled version of a speech recognition model, with various applications and companies using the name, including a production company and a media company."
+    },
+    {
+      "role": "user",
+      "content": "is it pretty good"
+    },
+    {
+      "role": "assistant",
+      "content": "Whisper is known for its high-quality and accurate speech recognition capabilities, Sir."
+    },
+    {
+      "role": "user",
+      "content": "is it free to use"
+    },
+    {
+      "role": "assistant",
+      "content": "Whisper is free to use if you download it from the open-source repository and run it locally, but third-party services that use Whisper's technology may charge fees, Sir."
+    },
+    {
+      "role": "user",
+      "content": "python"
+    },
+    {
+      "role": "assistant",
+      "content": "You'd like to use Python, Sir - I can help with writing Python code for you."
+    },
+    {
+      "role": "user",
+      "content": "can we use eat in Python"
+    },
+    {
+      "role": "assistant",
+      "content": "There's no direct \"eat\" function in Python, Sir."
+    },
+    {
+      "role": "user",
+      "content": "can we use it in python ?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, there is no \"eat\" function in Python, you can use the input() function instead to get user input, Sir."
+    },
+    {
+      "role": "user",
+      "content": "no can we use whisper using python"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, you can use Whisper in Python by installing the openai-whisper library using pip, Sir."
+    }
+  ]
+}

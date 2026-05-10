@@ -1,0 +1,21 @@
+{
+  "session_id": "74adc087-46da-45dd-95ec-9b8d7bd6e0ba",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Look at my screen and tell me what you see"
+    },
+    {
+      "role": "assistant",
+      "content": "I see a dark screen with a purple circle in the middle, containing the text \"Good afternoon. How may I assist you today?\" in white. There are several buttons below the circle, including \"What can you do?\", \"Open YouTube\", \"Fun fact\", \"Play music\", \"My schedule today\", and \"Analyze my screen\"."
+    },
+    {
+      "role": "user",
+      "content": "What do you see on my screen? Describe it in detail."
+    },
+    {
+      "role": "assistant",
+      "content": "I see a dark screen with a purple circle in the middle, containing the text \"Good afternoon. How may I assist you today?\" in white. There are several buttons below the circle, including \"What can you do?\", \"Open YouTube\", \"Fun fact\", \"Play music\", \"My schedule today\", and \"Analyze my screen\". A chat window on the left shows a conversation history with 5 entries: \"Query detected\", \"Primary Brain\", \"Route selected\", \"Analyzing image\", and \"Streaming response\". The taskbar at the bottom displays several icons, including Windows, File Explorer, Chrome, and Teams. The time \"14:57 25-04-2026\" is visible in the bottom right corner."
+    }
+  ]
+}

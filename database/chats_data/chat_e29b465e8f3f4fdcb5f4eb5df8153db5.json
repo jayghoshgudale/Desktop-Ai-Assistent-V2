@@ -1,0 +1,21 @@
+{
+  "session_id": "e29b465e-8f3f-4fdc-b5f4-eb5df8153db5",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What's on my schedule today?"
+    },
+    {
+      "role": "assistant",
+      "content": "You have a meeting scheduled for 11 pm tonight, Sir. I've also found that there's an IPL match between Rajasthan Royals and Mumbai Indians scheduled for 19:30 at Barsapara Cricket Stadium, Guwahati, today."
+    },
+    {
+      "role": "user",
+      "content": "open youtube"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened YouTube for you."
+    }
+  ]
+}

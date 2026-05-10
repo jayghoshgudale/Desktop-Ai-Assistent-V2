@@ -1,0 +1,13 @@
+{
+  "session_id": "e055142f-81f9-4da6-962e-97d335f7704a",
+  "messages": [
+    {
+      "role": "user",
+      "content": "calculator"
+    },
+    {
+      "role": "assistant",
+      "content": "I have opened Calculator, Jay."
+    }
+  ]
+}

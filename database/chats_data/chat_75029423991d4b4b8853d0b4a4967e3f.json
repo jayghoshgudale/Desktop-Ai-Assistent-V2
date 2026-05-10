@@ -1,0 +1,13 @@
+{
+  "session_id": "75029423-991d-4b4b-8853-d0b4a4967e3f",
+  "messages": [
+    {
+      "role": "user",
+      "content": "create a image of A cute 3D stylized robot character wearing a dark teal hoodie. The robot has a smooth black rounded face with two glowing orange rectangular eyes. The character is standing in a cinematic pose. High-quality 3D render, Pixar style, soft ambient lighting, dark background, premium digital art. Full body shot."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the generate image in the background. I'll open it for you when it's ready."
+    }
+  ]
+}

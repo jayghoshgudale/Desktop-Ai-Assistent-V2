@@ -1,0 +1,29 @@
+{
+  "session_id": "0a5c2027-b8cf-4bae-b8fc-440586488f78",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello general"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Sir, what can I help you with today?"
+    },
+    {
+      "role": "user",
+      "content": "Hello realtime"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Realtime is an app that supports both WebRTC and SIP users, accessible via WebRTC at hello-realtime.val.run or via SIP by calling 425-800-0042, Sir."
+    },
+    {
+      "role": "user",
+      "content": "Hello jarvis"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    }
+  ]
+}

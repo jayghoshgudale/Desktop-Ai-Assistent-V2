@@ -1,0 +1,13 @@
+{
+  "session_id": "a69734e2-5dd7-4246-9d96-7fb495cf392f",
+  "messages": [
+    {
+      "role": "user",
+      "content": "restart my pc"
+    },
+    {
+      "role": "assistant",
+      "content": "Please confirm the system action on your screen."
+    }
+  ]
+}

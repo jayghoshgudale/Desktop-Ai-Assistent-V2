@@ -1,0 +1,37 @@
+{
+  "session_id": "9ff36538-040b-465b-9cf5-5569b335b2db",
+  "messages": [
+    {
+      "role": "user",
+      "content": "service are you here"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm here, Sir, ready to help with anything you need."
+    },
+    {
+      "role": "user",
+      "content": "open calculator"
+    },
+    {
+      "role": "assistant",
+      "content": "I have opened calculator."
+    },
+    {
+      "role": "user",
+      "content": "now close it"
+    },
+    {
+      "role": "assistant",
+      "content": "I have closed calculator."
+    },
+    {
+      "role": "user",
+      "content": "open vs"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "session_id": "7d6f679b-dc94-45b8-8d0b-e12910fbbfab",
+  "messages": [
+    {
+      "role": "user",
+      "content": "See me learn from me how to open whatsapp and how to text our self hello"
+    },
+    {
+      "role": "assistant",
+      "content": "I see a young man with short dark hair and glasses. He is wearing a black shirt and appears to be indoors in front of a window with white curtains."
+    },
+    {
+      "role": "user",
+      "content": "Jarvis watch me and learn how to open settings on desktop"
+    },
+    {
+      "role": "assistant",
+      "content": "Let me take a look…"
+    },
+    {
+      "role": "user",
+      "content": "Jarvis watch me and learn how to open settings on desktop"
+    },
+    {
+      "role": "assistant",
+      "content": "To open settings on your desktop, you typically need to click on the Start button, then select the gear icon labeled \"Settings.\" However, based on the image you're showing me, I don't see your desktop or any computer interface. I see a person with dark hair and glasses, resting their chin on their hand."
+    },
+    {
+      "role": "user",
+      "content": "What do you see on my screen? Describe it in detail."
+    },
+    {
+      "role": "assistant",
+      "content": "The image on your screen shows a computer interface with a dark background and a chat window labeled \"J.A.R.V.I.S.\" A video feed of a young man with short dark hair and glasses, wearing a black shirt, is visible in the top right corner. The chat window displays a conversation between you and Jarvis, discussing opening desktop settings."
+    }
+  ]
+}

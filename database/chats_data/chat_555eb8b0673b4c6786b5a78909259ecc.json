@@ -1,0 +1,13 @@
+{
+  "session_id": "555eb8b0-673b-4c67-86b5-a78909259ecc",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Broo Can you tell Summary of yourself like who are yout(You jarvis not about your owner jayy) What you can doo etcc"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm Jarvis, a complete AI assistant, and I can answer questions, open websites and apps, play music and videos, generate images, write content, and search Google and YouTube, providing information and assistance to the best of my abilities. I can also analyze camera images and provide information based on what I see, Sir."
+    }
+  ]
+}

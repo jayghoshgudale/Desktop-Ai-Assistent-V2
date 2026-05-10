@@ -1,0 +1,21 @@
+{
+  "session_id": "11a8f6b3-a2b8-466e-9352-acf4abbc122a",
+  "messages": [
+    {
+      "role": "user",
+      "content": "can you listen me"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm listening, Sir. Please go ahead and speak."
+    },
+    {
+      "role": "user",
+      "content": "I just go to the"
+    },
+    {
+      "role": "assistant",
+      "content": "You started to say something, but it seems like you didn't finish, Sir. Please continue, I'm still listening."
+    }
+  ]
+}

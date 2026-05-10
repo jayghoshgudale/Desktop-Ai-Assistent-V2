@@ -1,0 +1,13 @@
+{
+  "session_id": "c6e739f8-a3ee-4318-9eb3-6b58b1b420af",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Are you alive ?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, Sir, I'm not alive, I'm a computer program designed to assist and communicate with you."
+    }
+  ]
+}

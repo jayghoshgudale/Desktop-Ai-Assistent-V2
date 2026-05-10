@@ -1,0 +1,45 @@
+{
+  "session_id": "3d2d3531-1e21-4a32-90e2-c51a429578ef",
+  "messages": [
+    {
+      "role": "user",
+      "content": "open calculator"
+    },
+    {
+      "role": "assistant",
+      "content": "I have opened Calculator."
+    },
+    {
+      "role": "user",
+      "content": "close calculator"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    },
+    {
+      "role": "user",
+      "content": "open notepad"
+    },
+    {
+      "role": "assistant",
+      "content": "I have opened Notepad."
+    },
+    {
+      "role": "user",
+      "content": "now close it"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    },
+    {
+      "role": "user",
+      "content": "Open vs code"
+    },
+    {
+      "role": "assistant",
+      "content": "I have opened vs code."
+    }
+  ]
+}

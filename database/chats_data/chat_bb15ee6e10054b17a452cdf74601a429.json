@@ -1,0 +1,37 @@
+{
+  "session_id": "bb15ee6e-1005-4b17-a452-cdf74601a429",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Jarvis, learn how to refresh desktop from re.mp4"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    },
+    {
+      "role": "user",
+      "content": "Watch re.mp4 and learn macro for refreshing"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    },
+    {
+      "role": "user",
+      "content": "start recording and learn how to refresh"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    },
+    {
+      "role": "user",
+      "content": "start recording"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    }
+  ]
+}

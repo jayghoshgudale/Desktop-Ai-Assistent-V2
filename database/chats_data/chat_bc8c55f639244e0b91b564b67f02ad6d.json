@@ -1,0 +1,13 @@
+{
+  "session_id": "bc8c55f6-3924-4e0b-91b5-64b67f02ad6d",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Jarvis, learn how to refresh desktop from re.mp4"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    }
+  ]
+}
