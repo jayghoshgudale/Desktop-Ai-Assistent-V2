@@ -688,7 +688,7 @@ async def text_to_speech(request: TTSRequest):
     return StreamingResponse(
         generate(),
         media_type="audio/mpeg",
-        headers={"Cache-Control": "no-cache"},  # Fix 79: "[" -> "{", and misplaced closing paren
+        headers={"Cache-Control": "no-cache"},
     )
 
 @app.websocket("/ws/wakeword")
@@ -703,7 +703,7 @@ async def websocket_wakeword(websocket: WebSocket):
 
 _frontend_dir = Path(__file__).resolve().parent.parent  # Serving from root for direct GitHub Pages support
 
-if _frontend_dir.exists():  # Fix 81: "if_frontend_dir.exists()" -> "if _frontend_dir.exists()"
+if _frontend_dir.exists():
     app.mount("/app", StaticFiles(directory=str(_frontend_dir), html=True), name="frontend")
 
 
@@ -722,5 +722,5 @@ def run():
     )
 
 
-if __name__ == "__main__":  # Fix 82: "if_name ==" -> "if __name__ =="
+if __name__ == "__main__":
     run()
