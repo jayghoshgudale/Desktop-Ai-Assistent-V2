@@ -17,3 +17,7 @@ build/
 # IDEs
 .vscode/
 .idea/
+
+# Data
+database/
+frontend/audio/
